@@ -124,7 +124,6 @@ class Signup_Screen extends StatelessWidget {
                                   _formKey.currentState!.save();
 
                                   //login method
-                                  print('Signed up');
                                   _auth_controller.SignUp();
                                 }
                               },

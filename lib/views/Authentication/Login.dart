@@ -95,7 +95,6 @@ class Login_Screen extends StatelessWidget {
                                   _formKey.currentState!.save();
 
                                   //login method
-                                  print('Logged In');
                                   _auth_controller.SignIn();
                                 }
                               },
