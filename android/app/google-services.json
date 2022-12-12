@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921066913998",
+    "project_id": "goo-drive-app",
+    "storage_bucket": "goo-drive-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921066913998:android:ad3162afc83c6f8c55109f",
+        "android_client_info": {
+          "package_name": "com.example.goo_userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921066913998-40ngc8dbuq31562m0591mgbbgmh8usvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMc-qXhNpowbPG5HZIfkPfWWG-aQRi08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921066913998-40ngc8dbuq31562m0591mgbbgmh8usvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
